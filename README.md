@@ -1,12 +1,9 @@
 # Biografía de Miyamoto Mushashi
 
 ![Miyamoto Musashi.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Miyamoto_Musashi.jpg/640px-Miyamoto_Musashi.jpg)
-Figura 1: Miyamoto Musashi (fuente de la imagen: Wikimedia Commons)
+<br>Figura 1: Miyamoto Musashi (fuente de la imagen: Wikimedia Commons)
 
 **Miyamoto Musashi** (fig. 1) (c. 1584 - 13 de junio de 1645) fue un célebre espadachín, guerrero y filósofo japonés, ampliamente considerado como uno de los más grandes samuráis de la historia. Conocido por su invencibilidad en combate, Musashi participó en más de 60 duelos, ganando todos ellos, y desarrolló un estilo único de esgrima que aún perdura hoy.
-
-
-
 
 ### Primeros años 
 Miyamoto Musashi nació como Shinmen Takezō en la provincia de Harima, Japón. Se cree que nació en 1584, aunque la fecha exacta es incierta debido a la falta de registros precisos. Era hijo de un samurái llamado **Shinmen Munisai**, quien también era un hábil espadachín y enseñó a Musashi los fundamentos del combate desde muy joven. La educación de Musashi fue rigurosa, enfocada en las artes marciales, la estrategia militar y el código del bushido.
