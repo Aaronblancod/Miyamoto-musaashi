@@ -2,8 +2,6 @@
 
 ![Miyamoto Musashi.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Miyamoto_Musashi.jpg/640px-Miyamoto_Musashi.jpg)
 
-
-<br>
 <br>
 Figura 1: Miyamoto Musashi (fuente de la imagen: Wikimedia Commons)
 
